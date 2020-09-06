@@ -1,11 +1,15 @@
 # Voice-Controlled News Scrubbing Application
-This application can give a 
+
+This application can give you a list of the hottest news of your choosing from a voice-controlled function from Alan AI.
 
 ## Features
 
-With this application, you are able to:
+With this application, you are able to get the following with voice command:
 
-- 
+- Get the lastest news.
+- Get news based on the news channel (CNN, BBC, CBC, etc).
+- Get news based on categories (Business, technology, etc).
+- Get news based on terms (AI, computing, PS5, Xbox Series X, Syria, etc)
 
 ## Installation
 
