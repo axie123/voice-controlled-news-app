@@ -1,4 +1,17 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Voice-Controlled News Scrubbing Application
+This application can give a 
+
+## Features
+
+With this application, you are able to:
+
+- 
+
+## Installation
+
+You can just download the repo through git or just download the zip file onto your computer.
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). So you will need to install react.js onto your system before you can run it.
 
 ## Available Scripts
 
