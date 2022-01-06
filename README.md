@@ -1,5 +1,7 @@
 # Voice-Controlled News Scrubbing Application
 
+## About this Project
+
 This application can give you a list of the hottest news of your choosing from a voice-controlled function from Alan AI.
 
 ## Features
